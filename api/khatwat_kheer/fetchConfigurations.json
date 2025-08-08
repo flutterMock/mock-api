@@ -1,0 +1,9 @@
+{
+    "khatwat_kheer": {
+        "step_conversion_ratio": "1.5",
+        "minimum_duration": "60"
+    },
+    "common": {
+        "refresh_timeout": "3600"
+    }
+}

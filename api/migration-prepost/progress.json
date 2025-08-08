@@ -1,0 +1,12 @@
+{
+    "msisdn": "0661123456",
+    "currentStep": "id_uploaded",
+    "data": {
+        "offerCode": "10",
+        "otpValidated": true,
+        "idType": "CINE",
+        "activationDate": "immediate",
+        "paymentMode": null
+    },
+    "expiresAt": 3600
+}

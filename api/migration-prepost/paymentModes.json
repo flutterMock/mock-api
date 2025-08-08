@@ -1,0 +1,35 @@
+[
+    {
+        "code": "delayed",
+        "title": "Paiement différé",
+        "name": "Paiement différé",
+        "status": "active",
+        "icon": "<svg/>\n</svg>\n",
+        "balance": 0
+    },
+    {
+        "code": "solde_dh",
+        "title": "Solde Dirham",
+        "name": "Solde Dirham",
+        "status": "active",
+        "icon": "<svg/>\n</svg>\n",
+        "balance": 100,
+        "reason": "Balance not sufficient"
+    },
+    {
+        "code": "cmi",
+        "title": "Carte bancaire",
+        "name": "Carte bancaire",
+        "status": "active",
+        "icon": "<svg/>\n</svg>\n",
+        "balance": 0
+    },
+    {
+        "code": "scratch_card",
+        "title": "Carte de grattage",
+        "name": "Carte de grattage",
+        "status": "active",
+        "icon": "<svg/>\n</svg>\n",
+        "balance": 100
+    }
+]
