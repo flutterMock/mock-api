@@ -1,0 +1,54 @@
+[
+    {
+        "type": "parental_control",
+        "features": [
+            "Filtrage du contenu",
+            "Gestion du temps passé sur Internet",
+            "Suivi de l'emplacement",
+            "Mode restreint sur Youtube"
+        ],
+        "date": "2025-08-01T10:00:00Z",
+        "status": "inactive",
+        "price": 29,
+        "title": "Contrôle parental"
+    },
+    {
+        "type": "vpn",
+        "features": [
+            "Connexion VPN ultra-rapide",
+            "Politique “no-logs” vérifiée par des experts",
+            "Liberté mondiale à portée de main",
+            "Protégez toute votre vie numérique"
+        ],
+        "date": "2025-08-10T08:15:00Z",
+        "status": "active",
+        "price": 49,
+        "title": "VPN"
+    },
+    {
+        "type": "parental_control",
+        "features": [
+            "Filtrage du contenu",
+            "Gestion du temps passé sur Internet",
+            "Suivi de l'emplacement",
+            "Mode restreint sur Youtube"
+        ],
+        "date": "2025-08-01T10:00:00Z",
+        "status": "activation_in_progress",
+        "price": 29,
+        "title": "Contrôle parental"
+    },
+    {
+        "type": "vpn",
+        "features": [
+            "Connexion VPN ultra-rapide",
+            "Politique “no-logs” vérifiée par des experts",
+            "Liberté mondiale à portée de main",
+            "Protégez toute votre vie numérique"
+        ],
+        "date": "2025-08-10T08:15:00Z",
+        "status": "cancellation_in_progress",
+        "price": 49,
+        "title": "VPN"
+    }
+]
