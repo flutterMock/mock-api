@@ -13,17 +13,17 @@
                 "cardTextColor": {
                     "label": "Yoxo",
                     "lightThemeCode": "#FFFFFF",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#FFFFFF"
                 },
                 "cardPriceColor": {
                     "label": "Yoxo",
                     "lightThemeCode": "#FBF500",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#FBF500"
                 },
                 "btnBackgroundColor": {
                     "label": "Yoxo",
                     "lightThemeCode": "#FBF500",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#FBF500"
                 },
                 "btnTextColor": {
                     "label": "Fixed black",
@@ -33,27 +33,27 @@
                 "traitColor": {
                     "label": "Fixed black",
                     "lightThemeCode": "#242326",
-                    "darkThemeCode": "#FFFFFF"
+                    "darkThemeCode": "#242326"
                 },
                 "serviceLabelColor": {
                     "label": "Yoxo",
                     "lightThemeCode": "#FFFFFF",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#FFFFFF"
                 },
                 "serviceQuantityColor": {
                     "label": "Yoxo",
                     "lightThemeCode": "#FBF500",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#FBF500"
                 },
                 "serviceSubtitleColor": {
                     "label": "Yoxo",
                     "lightThemeCode": "#79767D",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#79767D"
                 },
                 "subtitleColor": {
                     "label": "Yoxo",
                     "lightThemeCode": "#79767D",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#79767D"
                 }
             },
             {
@@ -63,22 +63,22 @@
                 "cardBackgroundColor": {
                     "label": "Fixed black",
                     "lightThemeCode": "#FFFFFF",
-                    "darkThemeCode": "#FFFFFF"
+                    "darkThemeCode": "#1C1B1D"
                 },
                 "cardTextColor": {
                     "label": "YO",
                     "lightThemeCode": "#000000",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#FFFFFF"
                 },
                 "cardPriceColor": {
                     "label": "YO",
                     "lightThemeCode": "#F16E00",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#F16E00"
                 },
                 "btnBackgroundColor": {
                     "label": "YO",
                     "lightThemeCode": "#F16E00",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#F16E00"
                 },
                 "btnTextColor": {
                     "label": "Fixed black",
@@ -88,22 +88,22 @@
                 "traitColor": {
                     "label": "Fixed black",
                     "lightThemeCode": "#E4E4E5",
-                    "darkThemeCode": "#FFFFFF"
+                    "darkThemeCode": "#242326"
                 },
                 "serviceLabelColor": {
                     "label": "YO",
                     "lightThemeCode": "#3D3B3F",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#C9C7CD"
                 },
                 "serviceQuantityColor": {
                     "label": "YO",
                     "lightThemeCode": "#F16E00",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#F16E00"
                 },
                 "serviceSubtitleColor": {
                     "label": "YO",
                     "lightThemeCode": "#79767D",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#79767D"
                 }
             }
         ],
@@ -157,12 +157,12 @@
                 "backgroundColor": {
                     "label": "tag best-seller background color",
                     "lightThemeCode": "#FBF500",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#FBF500"
                 },
                 "textColor": {
                     "label": "tag best-seller background color",
                     "lightThemeCode": "#000000",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#000000"
                 }
             }
         },
@@ -209,12 +209,12 @@
                 "backgroundColor": {
                     "label": "tag best-seller background color",
                     "lightThemeCode": "#C1EEC1",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#C1EEC1"
                 },
                 "textColor": {
                     "label": "tag best-seller background color",
                     "lightThemeCode": "#0F3C0F",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#0F3C0F"
                 }
             }
         },
@@ -261,12 +261,12 @@
                 "backgroundColor": {
                     "label": "tag best-seller background color",
                     "lightThemeCode": "#FBF500",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#FBF500"
                 },
                 "textColor": {
                     "label": "tag best-seller background color",
                     "lightThemeCode": "#000000",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#000000"
                 }
             }
         },
@@ -299,12 +299,12 @@
                 "backgroundColor": {
                     "label": "tag best-seller background color",
                     "lightThemeCode": "#C1EEC1",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#C1EEC1"
                 },
                 "textColor": {
                     "label": "tag best-seller background color",
                     "lightThemeCode": "#0F3C0F",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#0F3C0F"
                 }
             }
         },
@@ -351,12 +351,12 @@
                 "backgroundColor": {
                     "label": "tag best-seller background color",
                     "lightThemeCode": "#FBF500",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#FBF500"
                 },
                 "textColor": {
                     "label": "tag best-seller background color",
                     "lightThemeCode": "#000000",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#000000"
                 }
             }
         },
@@ -403,12 +403,12 @@
                 "backgroundColor": {
                     "label": "tag best-seller background color",
                     "lightThemeCode": "#C1EEC1",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#C1EEC1"
                 },
                 "textColor": {
                     "label": "tag best-seller background color",
                     "lightThemeCode": "#0F3C0F",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#0F3C0F"
                 }
             }
         },
@@ -441,12 +441,12 @@
                 "backgroundColor": {
                     "label": "tag best-seller background color",
                     "lightThemeCode": "#FBF500",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#FBF500"
                 },
                 "textColor": {
                     "label": "tag best-seller background color",
                     "lightThemeCode": "#000000",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#000000"
                 }
             }
         },
@@ -492,12 +492,12 @@
                 "backgroundColor": {
                     "label": "tag best-seller background color",
                     "lightThemeCode": "#C1EEC1",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#C1EEC1"
                 },
                 "textColor": {
                     "label": "tag best-seller background color",
                     "lightThemeCode": "#0F3C0F",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#0F3C0F"
                 }
             }
         },
@@ -544,12 +544,12 @@
                 "backgroundColor": {
                     "label": "tag best-seller background color",
                     "lightThemeCode": "#FBF500",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#FBF500"
                 },
                 "textColor": {
                     "label": "tag best-seller background color",
                     "lightThemeCode": "#000000",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#000000"
                 }
             }
         },
@@ -582,12 +582,12 @@
                 "backgroundColor": {
                     "label": "tag best-seller background color",
                     "lightThemeCode": "#C1EEC1",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#C1EEC1"
                 },
                 "textColor": {
                     "label": "tag best-seller background color",
                     "lightThemeCode": "#0F3C0F",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#0F3C0F"
                 }
             }
         },
@@ -634,12 +634,12 @@
                 "backgroundColor": {
                     "label": "tag best-seller background color",
                     "lightThemeCode": "#FBF500",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#FBF500"
                 },
                 "textColor": {
                     "label": "tag best-seller background color",
                     "lightThemeCode": "#000000",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#000000"
                 }
             }
         },
@@ -679,12 +679,12 @@
                 "backgroundColor": {
                     "label": "tag best-seller background color",
                     "lightThemeCode": "#C1EEC1",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#C1EEC1"
                 },
                 "textColor": {
                     "label": "tag best-seller background color",
                     "lightThemeCode": "#0F3C0F",
-                    "darkThemeCode": ""
+                    "darkThemeCode": "#0F3C0F"
                 }
             }
         }

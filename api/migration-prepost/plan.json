@@ -27,12 +27,12 @@
         "backgroundColor": {
             "label": "tag best-seller background color",
             "lightThemeCode": "#C1EEC1",
-            "darkThemeCode": ""
+            "darkThemeCode": "#C1EEC1"
         },
         "textColor": {
             "label": "tag best-seller background color",
             "lightThemeCode": "#0F3C0F",
-            "darkThemeCode": ""
+            "darkThemeCode": "#0F3C0F"
         }
     }
 }
