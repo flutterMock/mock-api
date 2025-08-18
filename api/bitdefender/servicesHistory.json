@@ -1,0 +1,29 @@
+{
+    "vpn": [
+        {
+            "date": "2025-02-04T00:00:00Z",
+            "status": "active",
+            "price": 49
+        }
+    ],
+    "parental_control": [
+        {
+            "date": "2025-01-01T00:00:00Z",
+            "status": "terminated"
+        },
+        {
+            "date": "2025-02-04T00:00:00Z",
+            "status": "terminated"
+        },
+        {
+            "date": "2024-12-16T00:00:00Z",
+            "status": "active",
+            "price": 29
+        },
+        {
+            "type": "parental_control",
+            "date": "2024-09-23T00:00:00Z",
+            "status": "terminated"
+        }
+    ]
+}
