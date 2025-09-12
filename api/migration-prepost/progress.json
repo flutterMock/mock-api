@@ -1,6 +1,6 @@
 {
     "msisdn": "0661123456",
-    "currentStep": "id_uploaded",
+    "currentStep": "activation_selected",
     "data": {
         "offerCode": "10",
         "otpValidated": true,
