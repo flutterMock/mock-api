@@ -1,6 +1,6 @@
 {
     "msisdn": "0661123456",
-    "currentStep": "otp_verified",
+    "currentStep": "offer_selected",
     "data": {
         "offerCode": "10",
         "otpValidated": true,
