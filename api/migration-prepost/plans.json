@@ -83,7 +83,7 @@
                 "btnTextColor": {
                     "label": "Fixed #F16E00",
                     "lightThemeCode": "#FFFFFF",
-                    "darkThemeCode": "#FFFFFF"
+                    "darkThemeCode": "#000000"
                 },
                 "traitColor": {
                     "label": "Fixed #F16E00",
