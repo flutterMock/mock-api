@@ -6,6 +6,7 @@
     "recommended": true,
     "principalUse": "internet",
     "useFrequency": "daily",
+    "typeOfOffre": "maxCalls",
     "serviceType": [
         {
             "quantity": "11Go",
