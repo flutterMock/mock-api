@@ -223,7 +223,7 @@
             "commercialTitle": "ABONNEMENT 3",
             "description": "description 2",
             "price": 49,
-            "recommended": true,
+            "recommended": false,
             "principalUse": "internet",
             "useFrequency": "daily",
             "serviceType": [
@@ -275,7 +275,7 @@
             "commercialTitle": "ABONNEMENT 4",
             "description": "description 2",
             "price": 149,
-            "recommended": true,
+            "recommended": false,
             "principalUse": "internet",
             "useFrequency": "daily",
             "serviceType": [
@@ -313,7 +313,7 @@
             "commercialTitle": "ABONNEMENT 5",
             "description": "description 2",
             "price": 149,
-            "recommended": true,
+            "recommended": false,
             "principalUse": "internet",
             "useFrequency": "daily",
             "serviceType": [
@@ -365,7 +365,7 @@
             "commercialTitle": "ABONNEMENT 6",
             "description": "description 2",
             "price": 49,
-            "recommended": true,
+            "recommended": false,
             "principalUse": "internet",
             "useFrequency": "daily",
             "serviceType": [
@@ -417,7 +417,7 @@
             "commercialTitle": "ABONNEMENT 7",
             "description": "description 2",
             "price": 149,
-            "recommended": true,
+            "recommended": false,
             "principalUse": "internet",
             "useFrequency": "daily",
             "serviceType": [
@@ -455,7 +455,7 @@
             "commercialTitle": "ABONNEMENT 8",
             "description": "description 2",
             "price": 49,
-            "recommended": true,
+            "recommended": false,
             "principalUse": "internet",
             "useFrequency": "daily",
             "serviceType": [
@@ -506,7 +506,7 @@
             "commercialTitle": "ABONNEMENT 9",
             "description": "description 2",
             "price": 49,
-            "recommended": true,
+            "recommended": false,
             "principalUse": "internet",
             "useFrequency": "daily",
             "serviceType": [
@@ -558,7 +558,7 @@
             "commercialTitle": "ABONNEMENT 10",
             "description": "description 2",
             "price": 149,
-            "recommended": true,
+            "recommended": false,
             "principalUse": "internet",
             "useFrequency": "daily",
             "serviceType": [
@@ -596,7 +596,7 @@
             "commercialTitle": "ABONNEMENT 11",
             "description": "description 2",
             "price": 49,
-            "recommended": true,
+            "recommended": false,
             "principalUse": "internet",
             "useFrequency": "daily",
             "serviceType": [
@@ -648,7 +648,7 @@
             "commercialTitle": "ABONNEMENT 12",
             "description": "description 2",
             "price": 149,
-            "recommended": true,
+            "recommended": false,
             "principalUse": "internet",
             "useFrequency": "daily",
             "serviceType": [
