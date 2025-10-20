@@ -275,7 +275,7 @@
             "commercialTitle": "ABONNEMENT 4",
             "description": "description 2",
             "price": 149,
-            "recommended": false,
+            "recommended": true,
             "principalUse": "internet",
             "useFrequency": "daily",
             "serviceType": [
@@ -313,7 +313,7 @@
             "commercialTitle": "ABONNEMENT 5",
             "description": "description 2",
             "price": 149,
-            "recommended": false,
+            "recommended": true,
             "principalUse": "internet",
             "useFrequency": "daily",
             "serviceType": [
