@@ -275,7 +275,7 @@
             "commercialTitle": "ABONNEMENT 4",
             "description": "description 2",
             "price": 149,
-            "recommended": true,
+            "recommended": false,
             "principalUse": "internet",
             "useFrequency": "daily",
             "serviceType": [
