@@ -223,7 +223,7 @@
             "commercialTitle": "ABONNEMENT 3",
             "description": "description 2",
             "price": 49,
-            "recommended": false,
+            "recommended": true,
             "principalUse": "internet",
             "useFrequency": "daily",
             "serviceType": [
