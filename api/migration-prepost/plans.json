@@ -3,7 +3,7 @@
         "categories": [
             {
                 "code": "yoxo",
-                "title": "YOXO",
+                "commercialTitle": "YOXO",
                 "description": "YOXO description",
                 "cardBackgroundColor": {
                     "label": "Fixed #F16E00",
@@ -58,7 +58,7 @@
             },
             {
                 "code": "yo",
-                "title": "YO",
+                "commercialTitle": "YO",
                 "description": "YO description",
                 "cardBackgroundColor": {
                     "label": "Fixed #F16E00",
@@ -118,17 +118,36 @@
                 "code": "internet",
                 "title": "Internet"
             }
+        ],
+        "priceRanges": [
+            {
+                "code": "_249",
+                "maxPrice": 249
+            },
+            {
+                "code": "49_99",
+                "minPrice": 49,
+                "maxPrice": 99
+            }
         ]
     },
     "offers": [
         {
             "code": "1",
+            "title": "plan 1",
             "commercialTitle": "ABONNEMENT 1",
             "description": "description 2",
             "price": 49,
+            "fee": 49,
             "recommended": true,
-            "principalUse": "internet",
-            "useFrequency": "daily",
+            "principalUse": {
+                "code": "internet",
+                "title": "Internet"
+            },
+            "useFrequency": {
+                "code": "occasional",
+                "title": "Occasionnelle"
+            },
             "serviceType": [
                 {
                     "quantity": "11Go",
@@ -164,16 +183,25 @@
                     "lightThemeCode": "#000000",
                     "darkThemeCode": "#000000"
                 }
-            }
+            },
+            "fms": ""
         },
         {
             "code": "2",
+            "title": "plan 2",
             "commercialTitle": "ABONNEMENT 2",
             "description": "description 2",
             "price": 99,
+            "fee": 99,
             "recommended": true,
-            "principalUse": "internet",
-            "useFrequency": "daily",
+            "principalUse": {
+                "code": "internet",
+                "title": "Internet"
+            },
+            "useFrequency": {
+                "code": "daily",
+                "title": "Quotidienne"
+            },
             "serviceType": [
                 {
                     "quantity": "11Go",
@@ -216,16 +244,25 @@
                     "lightThemeCode": "#0F3C0F",
                     "darkThemeCode": "#0F3C0F"
                 }
-            }
+            },
+            "fms": ""
         },
         {
             "code": "3",
+            "title": "plan 3",
             "commercialTitle": "ABONNEMENT 3",
             "description": "description 2",
             "price": 49,
+            "fee": 49,
             "recommended": true,
-            "principalUse": "internet",
-            "useFrequency": "daily",
+            "principalUse": {
+                "code": "internet",
+                "title": "Internet"
+            },
+            "useFrequency": {
+                "code": "daily",
+                "title": "Quotidienne"
+            },
             "serviceType": [
                 {
                     "quantity": "11Go",
@@ -268,16 +305,25 @@
                     "lightThemeCode": "#000000",
                     "darkThemeCode": "#000000"
                 }
-            }
+            },
+            "fms": ""
         },
         {
             "code": "4",
+            "title": "plan 4",
             "commercialTitle": "ABONNEMENT 4",
             "description": "description 2",
             "price": 149,
+            "fee": 149,
             "recommended": true,
-            "principalUse": "internet",
-            "useFrequency": "daily",
+            "principalUse": {
+                "code": "internet",
+                "title": "Internet"
+            },
+            "useFrequency": {
+                "code": "daily",
+                "title": "Quotidienne"
+            },
             "serviceType": [
                 {
                     "quantity": "11Go",
@@ -306,16 +352,25 @@
                     "lightThemeCode": "#0F3C0F",
                     "darkThemeCode": "#0F3C0F"
                 }
-            }
+            },
+            "fms": ""
         },
         {
             "code": "5",
+            "title": "plan 5",
             "commercialTitle": "ABONNEMENT 5",
             "description": "description 2",
             "price": 149,
+            "fee": 149,
             "recommended": true,
-            "principalUse": "internet",
-            "useFrequency": "daily",
+            "principalUse": {
+                "code": "internet",
+                "title": "Internet"
+            },
+            "useFrequency": {
+                "code": "daily",
+                "title": "Quotidienne"
+            },
             "serviceType": [
                 {
                     "quantity": "11Go",
@@ -358,16 +413,25 @@
                     "lightThemeCode": "#000000",
                     "darkThemeCode": "#000000"
                 }
-            }
+            },
+            "fms": ""
         },
         {
             "code": "6",
+            "title": "plan 6",
             "commercialTitle": "ABONNEMENT 6",
             "description": "description 2",
             "price": 49,
+            "fee": 49,
             "recommended": true,
-            "principalUse": "internet",
-            "useFrequency": "daily",
+            "principalUse": {
+                "code": "internet",
+                "title": "Internet"
+            },
+            "useFrequency": {
+                "code": "occasional",
+                "title": "Occasionnelle"
+            },
             "serviceType": [
                 {
                     "quantity": "11Go",
@@ -410,16 +474,25 @@
                     "lightThemeCode": "#0F3C0F",
                     "darkThemeCode": "#0F3C0F"
                 }
-            }
+            },
+            "fms": ""
         },
         {
             "code": "7",
+            "title": "plan 7",
             "commercialTitle": "ABONNEMENT 7",
             "description": "description 2",
             "price": 149,
+            "fee": 149,
             "recommended": true,
-            "principalUse": "internet",
-            "useFrequency": "daily",
+            "principalUse": {
+                "code": "internet",
+                "title": "Internet"
+            },
+            "useFrequency": {
+                "code": "occasional",
+                "title": "Occasionnelle"
+            },
             "serviceType": [
                 {
                     "quantity": "11Go",
@@ -448,16 +521,25 @@
                     "lightThemeCode": "#000000",
                     "darkThemeCode": "#000000"
                 }
-            }
+            },
+            "fms": ""
         },
         {
             "code": "8",
+            "title": "plan 8",
             "commercialTitle": "ABONNEMENT 8",
             "description": "description 2",
             "price": 49,
+            "fee": 49,
             "recommended": false,
-            "principalUse": "internet",
-            "useFrequency": "daily",
+            "principalUse": {
+                "code": "internet",
+                "title": "Internet"
+            },
+            "useFrequency": {
+                "code": "occasional",
+                "title": "Occasionnelle"
+            },
             "serviceType": [
                 {
                     "quantity": "11Go",
@@ -499,16 +581,25 @@
                     "lightThemeCode": "#0F3C0F",
                     "darkThemeCode": "#0F3C0F"
                 }
-            }
+            },
+            "fms": ""
         },
         {
             "code": "9",
+            "title": "plan 9",
             "commercialTitle": "ABONNEMENT 9",
             "description": "description 2",
             "price": 49,
+            "fee": 49,
             "recommended": false,
-            "principalUse": "internet",
-            "useFrequency": "daily",
+            "principalUse": {
+                "code": "internet",
+                "title": "Internet"
+            },
+            "useFrequency": {
+                "code": "occasional",
+                "title": "Occasionnelle"
+            },
             "serviceType": [
                 {
                     "quantity": "11Go",
@@ -551,16 +642,25 @@
                     "lightThemeCode": "#000000",
                     "darkThemeCode": "#000000"
                 }
-            }
+            },
+            "fms": ""
         },
         {
             "code": "10",
+            "title": "plan 10",
             "commercialTitle": "ABONNEMENT 10",
             "description": "description 2",
             "price": 149,
+            "fee": 149,
             "recommended": false,
-            "principalUse": "internet",
-            "useFrequency": "daily",
+            "principalUse": {
+                "code": "internet",
+                "title": "Internet"
+            },
+            "useFrequency": {
+                "code": "occasional",
+                "title": "Occasionnelle"
+            },
             "serviceType": [
                 {
                     "quantity": "11Go",
@@ -589,16 +689,25 @@
                     "lightThemeCode": "#0F3C0F",
                     "darkThemeCode": "#0F3C0F"
                 }
-            }
+            },
+            "fms": ""
         },
         {
             "code": "11",
+            "title": "plan 11",
             "commercialTitle": "ABONNEMENT 11",
             "description": "description 2",
             "price": 49,
+            "fee": 49,
             "recommended": false,
-            "principalUse": "internet",
-            "useFrequency": "daily",
+            "principalUse": {
+                "code": "internet",
+                "title": "Internet"
+            },
+            "useFrequency": {
+                "code": "occasional",
+                "title": "Occasionnelle"
+            },
             "serviceType": [
                 {
                     "quantity": "11Go",
@@ -641,16 +750,25 @@
                     "lightThemeCode": "#000000",
                     "darkThemeCode": "#000000"
                 }
-            }
+            },
+            "fms": ""
         },
         {
             "code": "12",
+            "title": "plan 12",
             "commercialTitle": "ABONNEMENT 12",
             "description": "description 2",
             "price": 149,
+            "fee": 149,
             "recommended": false,
-            "principalUse": "internet",
-            "useFrequency": "daily",
+            "principalUse": {
+                "code": "internet",
+                "title": "Internet"
+            },
+            "useFrequency": {
+                "code": "occasional",
+                "title": "Occasionnelle"
+            },
             "serviceType": [
                 {
                     "quantity": "11Go",
@@ -686,7 +804,8 @@
                     "lightThemeCode": "#0F3C0F",
                     "darkThemeCode": "#0F3C0F"
                 }
-            }
+            },
+            "fms": ""
         }
     ]
 }
