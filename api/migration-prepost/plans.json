@@ -148,7 +148,7 @@
                 "code": "occasional",
                 "title": "Occasionnelle"
             },
-            "serviceType": [
+            "services": [
                 {
                     "quantity": "11Go",
                     "label": "d’Internet",
@@ -202,7 +202,7 @@
                 "code": "daily",
                 "title": "Quotidienne"
             },
-            "serviceType": [
+            "services": [
                 {
                     "quantity": "11Go",
                     "label": "d’Internet",
@@ -263,7 +263,7 @@
                 "code": "daily",
                 "title": "Quotidienne"
             },
-            "serviceType": [
+            "services": [
                 {
                     "quantity": "11Go",
                     "label": "d’Internet",
@@ -324,7 +324,7 @@
                 "code": "daily",
                 "title": "Quotidienne"
             },
-            "serviceType": [
+            "services": [
                 {
                     "quantity": "11Go",
                     "label": "d’Internet",
@@ -371,7 +371,7 @@
                 "code": "daily",
                 "title": "Quotidienne"
             },
-            "serviceType": [
+            "services": [
                 {
                     "quantity": "11Go",
                     "label": "d’Internet",
@@ -432,7 +432,7 @@
                 "code": "occasional",
                 "title": "Occasionnelle"
             },
-            "serviceType": [
+            "services": [
                 {
                     "quantity": "11Go",
                     "label": "d’Internet",
@@ -493,7 +493,7 @@
                 "code": "occasional",
                 "title": "Occasionnelle"
             },
-            "serviceType": [
+            "services": [
                 {
                     "quantity": "11Go",
                     "label": "d’Internet",
@@ -540,7 +540,7 @@
                 "code": "occasional",
                 "title": "Occasionnelle"
             },
-            "serviceType": [
+            "services": [
                 {
                     "quantity": "11Go",
                     "label": "d’Internet",
@@ -600,7 +600,7 @@
                 "code": "occasional",
                 "title": "Occasionnelle"
             },
-            "serviceType": [
+            "services": [
                 {
                     "quantity": "11Go",
                     "label": "d’Internet",
@@ -661,7 +661,7 @@
                 "code": "occasional",
                 "title": "Occasionnelle"
             },
-            "serviceType": [
+            "services": [
                 {
                     "quantity": "11Go",
                     "label": "d’Internet",
@@ -708,7 +708,7 @@
                 "code": "occasional",
                 "title": "Occasionnelle"
             },
-            "serviceType": [
+            "services": [
                 {
                     "quantity": "11Go",
                     "label": "d’Internet",
@@ -769,7 +769,7 @@
                 "code": "occasional",
                 "title": "Occasionnelle"
             },
-            "serviceType": [
+            "services": [
                 {
                     "quantity": "11Go",
                     "label": "d’Internet",
