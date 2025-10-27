@@ -1,24 +1,6 @@
 {
   "identifier": "plans",
   "title": "Plan Title Page",
-  "blocks": [
-    {
-      "type": "block_nudge",
-      "textDescription": "Economise plus en activant ton forfait dès maintenant !",
-      "image": "assets/images/coin.png",
-      "items": [],
-      "buttons": [],
-      "position": 3,
-      "backgroundColor": "#FFF6B6"
-    },
-    {
-      "type": "block_nudge",
-      "textDescription": "Ton vendredi devient plus généreux… Jusqu’à X Go de data en bonus",
-      "image": "assets/images/gift.png",
-      "backgroundColor": "#FFE8F7",
-      "items": [],
-      "buttons": [],
-      "position": 6
-    }
-  ]
+  "blocks": []
 }
+
