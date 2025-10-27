@@ -3,16 +3,16 @@
   "title": "Plan Title Page",
   "blocks": [
     {
-       "type": "block_nudge",
+    "type": "block_nudge",
     "textDescription": "Economise plus en activant ton forfait dès maintenant !",
     "image": "assets/images/coin.png",
     "items": [],
     "buttons": [],
     "position": 3,
     "backgroundColor": {
-                "darkThemeCode": "#FFFFFF",
+                "darkThemeCode": "#FFF6B6",
                 "label": "On Surface",
-                "lightThemeCode": "#000000"
+                "lightThemeCode": "#FFF6B6"
             }
     } , 
     {
@@ -21,11 +21,11 @@
     "image": "assets/images/coin.png",
     "items": [],
     "buttons": [],
-    "position": 3,
+    "position": 6,
     "backgroundColor": {
-                "darkThemeCode": "#FFFFFF",
+                "darkThemeCode": "#FFF6B6",
                 "label": "On Surface",
-                "lightThemeCode": "#000000"
+                "lightThemeCode": "#FFF6B6"
             }
     }
   ]
