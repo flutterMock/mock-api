@@ -1,12 +1,63 @@
 {
     "msisdn": "0661123456",
-    "currentStep": "id_uploaded",
+    "currentStep": "otpVerified",
     "data": {
-        "offerCode": "10",
-        "otpValidated": true,
-        "idType": "CINE",
-        "activationDate": "immediate",
-        "paymentMode": null
+        "otpValidated": true
     },
-    "expiresAt": 3600
+    "offer": {
+        "code": "DZ3",
+        "title": "plan 1",
+        "description": "description 1",
+        "commercialTitle": "plan 1",
+        "price": 59,
+        "fee": 59,
+        "principalUse": {
+            "code": "internet",
+            "title": "Internet"
+        },
+        "useFrequency": {
+            "code": "occasional",
+            "title": "Occasionnelle"
+        },
+        "services": [
+            {
+                "quantity": "1Go",
+                "label": "d’Internet*",
+                "serviceType": "internet",
+                "icon": "<svg>\n</svg>\n",
+                "subtitle": "*Après épuisement du solde d'appels"
+            },
+            {
+                "quantity": "2H",
+                "label": "d'appels",
+                "serviceType": "appel",
+                "icon": "<svg>\n</svg>\n",
+                "subtitle": ""
+            },
+            {
+                "quantity": "illimité",
+                "label": "réseaux sociaux**",
+                "serviceType": "internet",
+                "icon": "<svg>\n</svg>\n",
+                "subtitle": ""
+            }
+        ],
+        "categoryCode": "yoxo",
+        "recommended": true,
+        "tag": {
+            "commercialTitle": "Best seller",
+            "code": "tag_best_seller",
+            "backgroundColor": {
+                "label": "tag best-seller background color",
+                "lightThemeCode": "#C1EEC1",
+                "darkThemeCode": ""
+            },
+            "textColor": {
+                "label": "tag best-seller text color",
+                "lightThemeCode": "#0F3C0F",
+                "darkThemeCode": ""
+            }
+        }
+    },
+    "expiresAt": "2025-06-13T12:45:00Z"
 }
