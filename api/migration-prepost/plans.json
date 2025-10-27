@@ -193,7 +193,7 @@
             "description": "description 2",
             "price": 99,
             "fee": 99,
-            "recommended": false,
+            "recommended": true,
             "principalUse": {
                 "code": "internet",
                 "title": "Internet"
@@ -254,7 +254,7 @@
             "description": "description 2",
             "price": 49,
             "fee": 49,
-            "recommended": false,
+            "recommended": true,
             "principalUse": {
                 "code": "internet",
                 "title": "Internet"
@@ -339,7 +339,7 @@
             "description": "description 2",
             "price": 149,
             "fee": 149,
-            "recommended": false,
+            "recommended": true,
             "principalUse": {
                 "code": "internet",
                 "title": "Internet"
@@ -386,7 +386,7 @@
             "description": "description 2",
             "price": 149,
             "fee": 149,
-            "recommended": false,
+            "recommended": true,
             "principalUse": {
                 "code": "internet",
                 "title": "Internet"
@@ -447,7 +447,7 @@
             "description": "description 2",
             "price": 49,
             "fee": 49,
-            "recommended": false,
+            "recommended": true,
             "principalUse": {
                 "code": "internet",
                 "title": "Internet"
