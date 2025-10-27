@@ -1,6 +1,33 @@
 {
   "identifier": "plans",
   "title": "Plan Title Page",
-  "blocks": []
+  "blocks": [
+    {
+       "type": "block_nudge",
+    "textDescription": "Economise plus en activant ton forfait dès maintenant !",
+    "image": "assets/images/coin.png",
+    "items": [],
+    "buttons": [],
+    "position": 3,
+    "backgroundColor": {
+                "darkThemeCode": "#FFFFFF",
+                "label": "On Surface",
+                "lightThemeCode": "#000000"
+            }
+    } , 
+    {
+       "type": "block_nudge",
+    "textDescription": "Economise plus en activant ton forfait dès maintenant !",
+    "image": "assets/images/coin.png",
+    "items": [],
+    "buttons": [],
+    "position": 3,
+    "backgroundColor": {
+                "darkThemeCode": "#FFFFFF",
+                "label": "On Surface",
+                "lightThemeCode": "#000000"
+            }
+    }
+  ]
 }
 
