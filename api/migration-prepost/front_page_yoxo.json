@@ -45,9 +45,9 @@
       "buttons": [],
       "position": 3,
       "backgroundColor": {
-        "darkThemeCode": "#FFF6B6",
+        "darkThemeCode": "#FBF500",
         "label": "On Surface",
-        "lightThemeCode": "#FFF6B6"
+        "lightThemeCode": "#FBF500"
       }
     },
     {
@@ -58,9 +58,9 @@
       "buttons": [],
       "position": 6,
       "backgroundColor": {
-        "darkThemeCode": "#FFF6B6",
+        "darkThemeCode": "#FBF500",
         "label": "On Surface",
-        "lightThemeCode": "#FFF6B6"
+        "lightThemeCode": "#*#FBF500"
       }
     }
   ]
