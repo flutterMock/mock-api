@@ -1,0 +1,67 @@
+{
+  "identifier": "plans",
+  "title": "Plan Title Page",
+  "blocks": [
+    {
+      "type": "block_why_choose",
+      "title": "Pourquoi Choisir YO ?",
+      "buttons": [],
+      "items": [
+        {
+          "title": "Offres généreuses 99",
+          "buttons": [],
+          "segmentCodes": [],
+          "icon": "https://img.icons8.com/?size=100&id=JHG6PDnCLqor&format=png",
+          "textDescription": "Change ton forfait quand tu veux, après 3 mois d'ancienneté"
+        },
+        {
+          "title": "Offres généreuses",
+          "buttons": [],
+          "segmentCodes": [],
+          "icon": "https://img.icons8.com/?size=100&id=JHG6PDnCLqor&format=png",
+          "textDescription": "Change ton forfait quand tu veux, après 3 mois d'ancienneté"
+        },
+        {
+          "title": "Offres généreuses",
+          "buttons": [],
+          "segmentCodes": [],
+          "icon": "https://img.icons8.com/?size=100&id=JHG6PDnCLqor&format=png",
+          "textDescription": "Change ton forfait quand tu veux, après 3 mois d'ancienneté"
+        },
+        {
+          "title": "Offres généreuses",
+          "buttons": [],
+          "segmentCodes": [],
+          "icon": "https://img.icons8.com/?size=100&id=JHG6PDnCLqor&format=png",
+          "textDescription": "Change ton forfait quand tu veux, après 3 mois d'ancienneté"
+        }
+      ]
+    },
+    {
+      "type": "block_nudge",
+      "textDescription": "Economise plus en activant ton forfait dès maintenant !",
+      "image": "assets/images/coin.png",
+      "items": [],
+      "buttons": [],
+      "position": 3,
+      "backgroundColor": {
+        "darkThemeCode": "#FFF6B6",
+        "label": "On Surface",
+        "lightThemeCode": "#FFF6B6"
+      }
+    },
+    {
+      "type": "block_nudge",
+      "textDescription": "Economise plus en activant ton forfait dès maintenant !",
+      "image": "assets/images/coin.png",
+      "items": [],
+      "buttons": [],
+      "position": 6,
+      "backgroundColor": {
+        "darkThemeCode": "#FFF6B6",
+        "label": "On Surface",
+        "lightThemeCode": "#FFF6B6"
+      }
+    }
+  ]
+}
