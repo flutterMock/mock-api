@@ -60,7 +60,7 @@
       "backgroundColor": {
         "darkThemeCode": "#FBF500",
         "label": "On Surface",
-        "lightThemeCode": "#*#FBF500"
+        "lightThemeCode": "#FBF500"
       }
     }
   ]
