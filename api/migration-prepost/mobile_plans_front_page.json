@@ -2,7 +2,7 @@
   "identifier": "plans",
   "title": "Plan Title Page",
   "blocks": [
-        {
+    {
       "type": "block_why_choose",
       "title": "Pourquoi Choisir YO ?",
       "buttons": [],
@@ -13,7 +13,7 @@
           "segmentCodes": [],
           "icon": "https://img.icons8.com/?size=100&id=JHG6PDnCLqor&format=png",
           "textDescription": "Change ton forfait quand tu veux, après 3 mois d'ancienneté"
-        },
+        }
       ]
     },
     {
