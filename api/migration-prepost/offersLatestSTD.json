@@ -124,6 +124,11 @@
                 "minPrice": 49,
                 "maxPrice": 99
             }
+        ],
+        "typesOfOffers": [
+            "maxInternet",
+            "maxCalls",
+            "maxSocialsNetworks"
         ]
     },
     "offers": [
@@ -142,6 +147,7 @@
                 "code": "occasional",
                 "title": "Occasionnelle"
             },
+            "typeOfOffre": "maxInternet",
             "services": [
                 {
                     "quantity": "17Go",
@@ -178,62 +184,6 @@
                 "textColor": {
                     "label": "tag best-seller text color",
                     "lightThemeCode": "#0F3C0F",
-                    "darkThemeCode": ""
-                }
-            },
-            "fms": ""
-        },
-        {
-            "code": "DZ3",
-            "title": "plan 2",
-            "description": "description 2",
-            "commercialTitle": "plan 2",
-            "price": 0,
-            "fee": 0,
-            "principalUse": {
-                "code": "internet",
-                "title": "Internet"
-            },
-            "useFrequency": {
-                "code": "occasional",
-                "title": "Occasionnelle"
-            },
-            "services": [
-                {
-                    "quantity": "1Go",
-                    "label": "d’Internet",
-                    "serviceType": "internet",
-                    "icon": "<svg></svg>",
-                    "subtitle": "*Après épuisement du solde d'appels"
-                },
-                {
-                    "quantity": "1H",
-                    "label": "d'appels",
-                    "serviceType": "appel",
-                    "icon": "<svg></svg>",
-                    "subtitle": ""
-                },
-                {
-                    "quantity": "illimité",
-                    "label": "SMS",
-                    "serviceType": "sms",
-                    "icon": "<svg></svg>",
-                    "subtitle": ""
-                }
-            ],
-            "categoryCode": "yoxo",
-            "recommended": false,
-            "tag": {
-                "commercialTitle": "Nouveau",
-                "code": "tag_new",
-                "backgroundColor": {
-                    "label": "tag new background color",
-                    "lightThemeCode": "#FFF0B2",
-                    "darkThemeCode": "#FFF0B3"
-                },
-                "textColor": {
-                    "label": "tag new text color",
-                    "lightThemeCode": "#332900",
                     "darkThemeCode": ""
                 }
             },
