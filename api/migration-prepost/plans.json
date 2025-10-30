@@ -12,7 +12,7 @@
     }
   ],
   "displayPreferences": {
-    "yo": {
+    "yoxo": {
       "cardBackgroundColor": {
         "label": "On Surface",
         "lightThemeCode": "#000000",
@@ -55,11 +55,11 @@
       },
       "serviceSubtitleColor": {
         "label": "Neutral 50",
-        "lightThemeCode": "#79767D",
+        "lightThemeCode": "#FFFFFF",
         "darkThemeCode": ""
       }
     },
-    "yoxo": {
+    "yo": {
       "serviceSubtitleColor": {
         "label": "Neutral 50",
         "lightThemeCode": "#79767D",
@@ -67,17 +67,17 @@
       },
       "serviceQuantityColor": {
         "label": "Yoxo",
-        "lightThemeCode": "#FBF500",
+        "lightThemeCode": "#F16E00",
         "darkThemeCode": ""
       },
       "serviceLabelColor": {
         "label": "Yoxo",
-        "lightThemeCode": "#FFFFFF",
+        "lightThemeCode": "#000000",
         "darkThemeCode": ""
       },
       "cardBackgroundColor": {
         "label": "On Primary",
-        "lightThemeCode": "#FFFFFF",
+        "lightThemeCode": "#000000",
         "darkThemeCode": ""
       },
       "btnBackgroundColor": {
@@ -97,7 +97,7 @@
       },
       "cardTextColor": {
         "label": "On Surface",
-        "lightThemeCode": "#000000",
+        "lightThemeCode": "#FFFFFF",
         "darkThemeCode": ""
       },
       "traitColor": {
@@ -117,7 +117,7 @@
       },
       "subtitleColor": {
         "label": "Neutral 50",
-        "lightThemeCode": "#79767D",
+        "lightThemeCode": "#3D3B3F",
         "darkThemeCode": ""
       }
     }
