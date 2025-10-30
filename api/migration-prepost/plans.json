@@ -60,6 +60,21 @@
       }
     },
     "yoxo": {
+      "serviceSubtitleColor": {
+        "label": "Neutral 50",
+        "lightThemeCode": "#79767D",
+        "darkThemeCode": ""
+      },
+      "serviceQuantityColor": {
+        "label": "Yoxo",
+        "lightThemeCode": "#FBF500",
+        "darkThemeCode": ""
+      },
+      "serviceLabelColor": {
+        "label": "Yoxo",
+        "lightThemeCode": "#FBF500",
+        "darkThemeCode": ""
+      },
       "cardBackgroundColor": {
         "label": "On Primary",
         "lightThemeCode": "#FFFFFF",
