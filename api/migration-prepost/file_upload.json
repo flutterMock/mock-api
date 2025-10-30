@@ -1,0 +1,9 @@
+{
+    "msisdn": "0660123456",
+    "recto": "recto_image.png",
+    "verso": "verso_image.png",
+    "status": "new",
+    "transactionType": "prepaye",
+    "transactionId": "c9e897edbfa4c3a8f4630f6b9b3397e9",
+    "operationType": "B2C"
+}
