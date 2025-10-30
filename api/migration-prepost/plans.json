@@ -107,56 +107,6 @@
       }
     }
   },
-  "filters": {
-    "useFrequencies": {
-      "type": "match",
-      "field": "useFrequency",
-      "options": [
-        {
-          "title": "Occasionnelle",
-          "code": "occasional"
-        },
-        {
-          "title": "Quotidienne",
-          "code": "daily"
-        }
-      ]
-    },
-    "principalUses": {
-      "type": "match",
-      "field": "principalUse",
-      "options": [
-        {
-          "title": "Internet",
-          "code": "internet"
-        },
-        {
-          "title": "Appels",
-          "code": "call"
-        },
-        {
-          "title": "SMS",
-          "code": "sms"
-        }
-      ]
-    },
-    "price": {
-      "type": "range",
-      "field": "price",
-      "ranges": [
-        {
-          "code": "49_99",
-          "min": 49,
-          "max": 99
-        },
-        {
-          "code": "_249",
-          "min": null,
-          "max": 249
-        }
-      ]
-    }
-  },
   "offers": {
     "yoxo": [
       {
