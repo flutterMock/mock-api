@@ -77,7 +77,7 @@
       },
       "cardBackgroundColor": {
         "label": "On Primary",
-        "lightThemeCode": "#000000",
+        "lightThemeCode": "#FFFFFF",
         "darkThemeCode": ""
       },
       "btnBackgroundColor": {
