@@ -1,14 +1,14 @@
 {
   "categories": [
     {
-      "code": "yoxo",
-      "title": "YOXO",
-      "description": "YOXO description"
-    },
-    {
       "code": "yo",
       "title": "YO",
       "description": "YO description"
+    } , 
+    {
+      "code": "yoxo",
+      "title": "YOXO",
+      "description": "YOXO description"
     }
   ],
   "displayPreferences": {
