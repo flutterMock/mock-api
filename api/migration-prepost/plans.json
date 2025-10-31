@@ -97,7 +97,7 @@
       },
       "cardTextColor": {
         "label": "On Surface",
-        "lightThemeCode": "#FFFFFF",
+        "lightThemeCode": "#000000",
         "darkThemeCode": ""
       },
       "traitColor": {
