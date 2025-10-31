@@ -1,6 +1,6 @@
 {
-    "identificationType": "CIN",
-    "identificationNumber": "EA233407",
+    "identityType": "N",
+    "identityValue": "EA233407",
     "billingCycle": "C2",
     "partyId": "13202307"
 }
