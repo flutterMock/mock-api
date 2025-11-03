@@ -1,9 +1,11 @@
 {
-    "msisdn": "0660123456",
-    "recto": "recto_image.png",
-    "verso": "verso_image.png",
-    "status": "new",
-    "transactionType": "prepaye",
-    "transactionId": "c9e897edbfa4c3a8f4630f6b9b3397e9",
-    "operationType": "B2C"
+    "firstname": "MOUHCINE",
+    "lastname": "TEMSAMANI",
+    "birthDate": "1978-11-29T00:00:00+01:00",
+    "identityId": "KO123456",
+    "identityType": "N",
+    "address": "Maarif casablanca ..",
+    "city": "TTJTA ASSBLTA - TTHTA",
+    "registeredInSirio": true,
+    "uploadedFileId": "34234"
 }
