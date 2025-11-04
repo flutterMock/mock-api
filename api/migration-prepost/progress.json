@@ -1,6 +1,6 @@
 {
     "msisdn": "0661123456",
-    "currentStep": "id_uploaded",
+    "currentStep": "otp_verified",
     "data": {
         "otpValidated": true
     },
