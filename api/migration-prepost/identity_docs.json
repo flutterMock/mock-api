@@ -1,0 +1,17 @@
+[
+    {
+        "code": "N",
+        "label": "Carte d'identité nationale",
+        "image": "https://www.demarchesmaroc.com/wp-content/uploads/sites/7/2020/06/CIN_maroc-1024x670.jpg"
+    },
+    {
+        "code": "P",
+        "label": "Passeport",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Moroccan_passport.png"
+    },
+    {
+        "code": "T",
+        "label": "Carte de séjour",
+        "image": "https://www.demarchesmaroc.com/wp-content/uploads/sites/7/2020/06/CIN_maroc-1024x670.jpg"
+    }
+]
