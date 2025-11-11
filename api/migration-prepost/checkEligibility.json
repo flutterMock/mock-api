@@ -1,7 +1,5 @@
 {
     "msisdn": "0663654321",
     "offerId": "418",
-    "isEligible": false,
-    "reason": "MIGRATION_IN_PROGRESS",
-    "translationKey": "migration_in_progress"
+    "isEligible": true
 }
