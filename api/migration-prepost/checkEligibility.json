@@ -1,27 +1,5 @@
-[
-    {
-        "eligible": true,
-        "reason": null
-    },
-    {
-        "eligible": false,
-        "reason": "MIGRATION_IN_PROGRESS"
-    },
-    {
-        "eligible": false,
-        "reason": "CLIENT_WITH_DEBTS"
-    },
-    {
-        "eligible": false,
-        "reason": "BLACKLIST"
-    },
-    {
-        "eligible": false,
-        "reason": "IS_NOT_PREPAID"
-    },
-    {
-        "code": "0",
-        "message": "Bad request",
-        "description": "Paramètre manquant"
-    }
-]
+{
+    "msisdn": "0663654321",
+    "offerId": "418",
+    "isEligible": true
+}
