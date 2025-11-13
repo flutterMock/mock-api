@@ -5,7 +5,6 @@
     "description": "description 2",
     "price": 149,
     "fee": 149,
-    "recommended": true,
     "principalUse": {
         "code": "internet",
         "title": "Internet"
@@ -14,6 +13,12 @@
         "code": "occasional",
         "title": "Occasionnelle"
     },
+    "offerTypes": [
+        {
+            "code": "max_internet",
+            "title": "Max Internet"
+        }
+    ],
     "services": [
         {
             "quantity": "11Go",
@@ -30,19 +35,69 @@
             "subtitle": ""
         }
     ],
-    "categoryCode": "yo",
+    "category": {
+        "code": "yoxo",
+        "title": "YOXO",
+        "description": "YOXO description",
+        "cardBackgroundColor": {
+            "label": "On Surface",
+            "lightThemeCode": "#000000",
+            "darkThemeCode": ""
+        },
+        "btnBackgroundColor": {
+            "label": "Yoxo",
+            "lightThemeCode": "#FBF500",
+            "darkThemeCode": ""
+        },
+        "btnTextColor": {
+            "label": "On Surface",
+            "lightThemeCode": "#000000",
+            "darkThemeCode": ""
+        },
+        "cardPriceColor": {
+            "label": "Yoxo",
+            "lightThemeCode": "#FBF500",
+            "darkThemeCode": ""
+        },
+        "cardTextColor": {
+            "label": "On Primary",
+            "lightThemeCode": "#FFFFFF",
+            "darkThemeCode": ""
+        },
+        "traitColor": {
+            "label": "Dark Grey",
+            "lightThemeCode": "#242326",
+            "darkThemeCode": ""
+        },
+        "serviceLabelColor": {
+            "label": "Yoxo",
+            "lightThemeCode": "#FBF500",
+            "darkThemeCode": ""
+        },
+        "serviceQuantityColor": {
+            "label": "Yoxo",
+            "lightThemeCode": "#FBF500",
+            "darkThemeCode": ""
+        },
+        "serviceSubtitleColor": {
+            "label": "Neutral 50",
+            "lightThemeCode": "#79767D",
+            "darkThemeCode": ""
+        }
+    },
+    "recommended": true,
     "tag": {
         "commercialTitle": "Best seller",
         "code": "tag_best_seller",
         "backgroundColor": {
             "label": "tag best-seller background color",
             "lightThemeCode": "#C1EEC1",
-            "darkThemeCode": "#C1EEC1"
+            "darkThemeCode": ""
         },
         "textColor": {
-            "label": "tag best-seller background color",
+            "label": "tag best-seller text color",
             "lightThemeCode": "#0F3C0F",
-            "darkThemeCode": "#0F3C0F"
+            "darkThemeCode": ""
         }
     }
 }

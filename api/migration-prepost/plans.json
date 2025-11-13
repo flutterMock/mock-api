@@ -122,6 +122,83 @@
       }
     }
   },
+  "filters": {
+    "useFrequencies": {
+      "type": "select",
+      "field": "useFrequency",
+      "options": [
+        {
+          "title": "Occasionnelle",
+          "code": "occasional"
+        },
+        {
+          "title": "Quotidienne",
+          "code": "daily"
+        }
+      ]
+    },
+    "principalUses": {
+      "type": "select",
+      "field": "principalUse",
+      "options": [
+        {
+          "title": "Internet",
+          "code": "internet"
+        },
+        {
+          "title": "Appels",
+          "code": "call"
+        },
+        {
+          "title": "SMS",
+          "code": "sms"
+        }
+      ]
+    },
+    "maxBenefits": {
+      "type": "multiselect",
+      "field": "offerTypes",
+      "options": [
+        {
+          "title": "Max Internet",
+          "code": "max_internet"
+        },
+        {
+          "title": "Appels",
+          "code": "max_appels"
+        },
+        {
+          "title": "Max Réseaux Sociaux",
+          "code": "max_reseaux_sociaux"
+        }
+      ]
+    },
+    "budget": {
+      "type": "range",
+      "field": "price",
+      "ranges": [
+        {
+          "code": "49_99",
+          "min": 49,
+          "max": 99
+        },
+        {
+          "code": "_249",
+          "min": null,
+          "max": 249
+        }
+      ]
+    },
+    "prices": {
+      "type": "multiselect",
+      "field": "price",
+      "options": [
+        44,
+        99,
+        149
+      ]
+    }
+  },
   "offers": {
     "yoxo": [
       {
