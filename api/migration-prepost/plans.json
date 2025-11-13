@@ -192,7 +192,7 @@
     "prices": {
       "type": "multiselect",
       "field": "price",
-      "options": [
+      "optionsNumbers": [
         44,
         99,
         149
