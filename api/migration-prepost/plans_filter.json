@@ -217,6 +217,12 @@
                     "code": "daily",
                     "title": "Quotidienne"
                 },
+                "offerTypes": [
+                    {
+                        "code": "max_internet",
+                        "title": "Max Internet"
+                    }
+                ],
                 "services": [
                     {
                         "quantity": "11Go",
@@ -301,6 +307,12 @@
                     "code": "daily",
                     "title": "Quotidienne"
                 },
+                "offerTypes": [
+                    {
+                        "code": "max_appels",
+                        "title": "Max Appels"
+                    }
+                ],
                 "services": [
                     {
                         "quantity": "11Go",
@@ -361,6 +373,12 @@
                     "code": "occasional",
                     "title": "Occasionnelle"
                 },
+                "offerTypes": [
+                    {
+                        "code": "max_internet",
+                        "title": "Max Internet"
+                    }
+                ],
                 "services": [
                     {
                         "quantity": "11Go",
@@ -407,6 +425,12 @@
                     "code": "occasional",
                     "title": "Occasionnelle"
                 },
+                "offerTypes": [
+                    {
+                        "code": "max_internet",
+                        "title": "Max Internet"
+                    }
+                ],
                 "services": [
                     {
                         "quantity": "11Go",
@@ -469,6 +493,12 @@
                     "code": "occasional",
                     "title": "Occasionnelle"
                 },
+                "offerTypes": [
+                    {
+                        "code": "max_internet",
+                        "title": "Max Internet"
+                    }
+                ],
                 "services": [
                     {
                         "quantity": "11Go",
@@ -522,6 +552,12 @@
                     "code": "daily",
                     "title": "Quotidienne"
                 },
+                "offerTypes": [
+                    {
+                        "code": "max_internet",
+                        "title": "Max Internet"
+                    }
+                ],
                 "services": [
                     {
                         "quantity": "11Go",
@@ -582,6 +618,12 @@
                     "code": "daily",
                     "title": "Quotidienne"
                 },
+                "offerTypes": [
+                    {
+                        "code": "max_internet",
+                        "title": "Max Internet"
+                    }
+                ],
                 "services": [
                     {
                         "quantity": "11Go",
@@ -628,6 +670,12 @@
                     "code": "occasional",
                     "title": "Occasionnelle"
                 },
+                "offerTypes": [
+                    {
+                        "code": "max_internet",
+                        "title": "Max Internet"
+                    }
+                ],
                 "services": [
                     {
                         "quantity": "11Go",
@@ -688,6 +736,12 @@
                     "code": "occasional",
                     "title": "Occasionnelle"
                 },
+                "offerTypes": [
+                    {
+                        "code": "max_internet",
+                        "title": "Max Internet"
+                    }
+                ],
                 "services": [
                     {
                         "quantity": "11Go",
@@ -747,6 +801,12 @@
                     "code": "occasional",
                     "title": "Occasionnelle"
                 },
+                "offerTypes": [
+                    {
+                        "code": "max_internet",
+                        "title": "Max Internet"
+                    }
+                ],
                 "services": [
                     {
                         "quantity": "11Go",
