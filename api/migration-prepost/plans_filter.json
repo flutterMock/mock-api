@@ -134,20 +134,6 @@
                 {
                     "title": "Quotidienne",
                     "code": "daily"
-                }
-            ]
-        },
-        "useFrequencies": {
-            "type": "select",
-            "field": "useFrequency",
-            "options": [
-                {
-                    "title": "Occasionnelle",
-                    "code": "occasional"
-                },
-                {
-                    "title": "Quotidienne",
-                    "code": "daily"
                 },
                 {
                     "title": "Intense",
