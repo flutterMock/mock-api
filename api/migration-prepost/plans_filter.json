@@ -213,6 +213,7 @@
                 "price": 49,
                 "fee": 49,
                 "recommended": true,
+                "categoryCode": "yoxo",
                 "principalUse": {
                     "code": "internet",
                     "title": "Internet"
@@ -303,6 +304,7 @@
                 "price": 149,
                 "fee": 149,
                 "recommended": true,
+                "categoryCode": "yo",
                 "principalUse": {
                     "code": "internet",
                     "title": "Internet"
@@ -369,6 +371,7 @@
                 "price": 149,
                 "fee": 149,
                 "recommended": false,
+                "categoryCode": "yoxo",
                 "principalUse": {
                     "code": "internet",
                     "title": "Internet"
@@ -421,6 +424,7 @@
                 "price": 49,
                 "fee": 49,
                 "recommended": false,
+                "categoryCode": "yo",
                 "principalUse": {
                     "code": "internet",
                     "title": "Internet"
@@ -489,6 +493,7 @@
                 "price": 49,
                 "fee": 49,
                 "recommended": true,
+                "categoryCode": "yo",
                 "principalUse": {
                     "code": "internet",
                     "title": "Internet"
@@ -548,6 +553,7 @@
                 "price": 99,
                 "fee": 99,
                 "recommended": true,
+                "categoryCode": "yoxo",
                 "principalUse": {
                     "code": "internet",
                     "title": "Internet"
@@ -614,6 +620,7 @@
                 "price": 149,
                 "fee": 149,
                 "recommended": true,
+                "categoryCode": "yo",
                 "principalUse": {
                     "code": "internet",
                     "title": "Internet"
@@ -666,6 +673,7 @@
                 "price": 49,
                 "fee": 49,
                 "recommended": true,
+                "categoryCode": "yo",
                 "principalUse": {
                     "code": "internet",
                     "title": "Internet"
@@ -732,6 +740,7 @@
                 "price": 49,
                 "fee": 49,
                 "recommended": false,
+                "categoryCode": "yoxo",
                 "principalUse": {
                     "code": "internet",
                     "title": "Internet"
@@ -797,6 +806,7 @@
                 "price": 149,
                 "fee": 149,
                 "recommended": false,
+                "categoryCode": "yo",
                 "principalUse": {
                     "code": "internet",
                     "title": "Internet"
