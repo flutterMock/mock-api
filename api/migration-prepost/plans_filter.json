@@ -2,12 +2,12 @@
     "categories": [
         {
             "code": "yo",
-            "title": "YO",
+            "commercialTitle": "YO",
             "description": "YO description"
         },
         {
             "code": "yoxo",
-            "title": "YOXO",
+            "commercialTitle": "YOXO",
             "description": "YOXO description"
         }
     ],
